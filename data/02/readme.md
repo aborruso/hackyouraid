@@ -3,4 +3,4 @@ Questo dataset è un risultato del primo hackathon di data journalism dedicato a
 
 # Output
 **Visualizza il dataset**: 
-http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Faborruso%2Fhackyouraid%2Fmaster%2Fdata%2F02%2Fdatapackage.json
+http://goo.gl/6V0u59
