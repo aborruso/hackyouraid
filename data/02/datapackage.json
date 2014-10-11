@@ -1,0 +1,260 @@
+{
+    "name": "Jimuel",
+    "title": "Dataset Jimuel",
+    "description": "Raccolta dati clinici dei pazienti",
+    "homepage": "http://www.jimuel.org/JIMUEL/Il_Progetto.html",
+    "sources": [
+        {
+            "name": "Internet Medics For Life",
+            "web": "http://www.jimuel.org/JIMUEL/Il_Progetto.html"
+        }
+    ],
+    "licenses": [
+        {
+            "id": "CC BY SA4.0",
+            "name": "CC BY SA 4.0",
+            "version": "4",
+            "url": "http://creativecommons.org/licenses/by-sa/4.0/"
+        }
+    ],
+    "resources": [
+        {
+        "name": "dati_clinici",
+        "path": "dati_clinici.csv",
+        "format": "csv",
+        "encoding": "UTF-8",
+        "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "index": 0,
+                        "type": "string",
+                        "name": "PersonalKey",
+                        "description": "PersonalKey: identificativo univoco"
+                    },
+                    {
+                        "index": 1,
+                        "type": "string",
+                        "name": "CartellaN",
+                        "description": "CartellaN: Indentificativo del consulto effettuato sul paziente"
+                    },
+                    {
+                        "index": 2,
+                        "type": "string",
+                        "name": "Sex",
+                        "description": "Sesso:  Maschile o Femminile"
+                    },
+                    {
+                        "index": 3,
+                        "type": "datetime",
+                        "name": "DataNascita",
+                        "description": "Data di nascita: indica la data di nascita del paziente"
+                    },
+                    {
+                        "count": 140,
+                        "index": 4,
+                        "name": "Età",
+                        "min": 0,
+                        "max": 2014,
+                        "50%": 8.5,
+                        "25%": 5,
+                        "std": 406.5796607106621,
+                        "75%": 11,
+                        "type": "integer",
+                        "mean": 95.85
+                    },
+                    {
+                        "index": 5,
+                        "type": "string",
+                        "name": "LuogoNascita",
+                        "description": "Luogo di nascita: luogo in cui è nato del paziente"
+                    },
+                    {
+                        "count": 108,
+                        "index": 6,
+                        "name": "Peso",
+                        "description": "Peso corporeo: misura della massa corporea espressa in Kg",
+                        "min": 5,
+                        "max": 301,
+                        "50%": 22,
+                        "25%": 15,
+                        "std": 70.2806783208626,
+                        "75%": 45.5,
+                        "type": "number",
+                        "mean": 53.49074074074074
+                    },
+                    {
+                        "count": 68,
+                        "index": 7,
+                        "name": "Altezza",
+                        "description": "Altezza: misura dell'altezza corporea in cm",
+                        "min": 12,
+                        "max": 1385,
+                        "50%": 121.5,
+                        "25%": 111.5,
+                        "std": 309.02825406199355,
+                        "75%": 134.25,
+                        "type": "number",
+                        "mean": 208.47058823529412
+                    },
+                    {
+                        "index": 8,
+                        "type": "string",
+                        "name": "JIMUELTerapy::JMedicDiagnosis",
+                        "description": "JIMUELTerapy::JmedicDiagnosis: identificazione di una patologia in base all’organo interessato ed ai sintomi"
+                    },
+                    {
+                        "index": 9,
+                        "type": "string",
+                        "name": "PressioneArteriosa",
+                        "description": "Pressione arteriosa:Valori pressori min e max espressa in mmHg"
+                    },
+                    {
+                        "count": 14,
+                        "index": 10,
+                        "name": "FrequenzaCardiaca",
+                        "description": "Frequenza cadriaca: misura della frequenza cardiaca battiti per minuto",
+                        "min": 0,
+                        "max": 113,
+                        "50%": 75,
+                        "25%": 70,
+                        "std": 34.28652700501954,
+                        "75%": 109,
+                        "type": "number",
+                        "mean": 76.78571428571429
+                    },
+                    {
+                        "index": 11,
+                        "type": "string",
+                        "name": "Temperatura",
+                        "description": "Temperatura: misura temperatura corporea espressa in °C"
+                    },
+                    {
+                        "count": 9,
+                        "index": 12,
+                        "name": "AttiRespiratoriMin",
+                        "description": "AttirespiratoriMin: frequenza respiratoria in numeri degli atti respiratori al minuto",
+                        "min": 21,
+                        "max": 117,
+                        "50%": 26,
+                        "25%": 25,
+                        "std": 30.475855652922657,
+                        "75%": 27,
+                        "type": "number",
+                        "mean": 36.55555555555556
+                    },
+                    {
+                        "index": 13,
+                        "type": "string",
+                        "name": "Città",
+                        "description": "Città: luogo in cui vive il paziente"
+                    },
+                    {
+                        "index": 14,
+                        "type": "string",
+                        "name": "JIMUELTerapy::JMedicTherapy",
+                        "description": "JIMUELTerapy::JmedicTherapy: prescrizione medica indicante dosi e i tempi di assunzione di un farmaco."
+                    },
+                    {
+                        "index": 15,
+                        "type": "string",
+                        "name": "AttivitàLavorativa",
+                        "description": "Attività Lavorativa: professione svolto dal paziente"
+                    },
+                    {
+                        "index": 16,
+                        "type": "string",
+                        "name": "JIMUELVitalStatistic::Anamnesi",
+                        "description": "JIMUELVitalStatistic::Anamnesi:indicazione delle notizie recenti e pregresse fisiologiche epatologiche personali e familiari."
+                    },
+                    {
+                        "index": 17,
+                        "type": "string",
+                        "name": "JIMUELTerapy::JMedicAnalysisRequest",
+                        "description": "JIMUELTerapy::JmedicAnalysisRequest: esami clinici richiesti dal medico Jimuel"
+                    },
+                    {
+                        "index": 18,
+                        "type": "string",
+                        "name": "Allergie",
+                        "description": "Allergie: lista di allergie"
+                    },
+                    {
+                        "index": 19,
+                        "type": "string",
+                        "name": "JIMUELConsults::JMedicnickname",
+                        "description": "JIMUELConsults::Jmedicnickname: nickname del medico che prende in carico il caso."
+                    },
+                    {
+                        "index": 20,
+                        "type": "string",
+                        "name": "JIMUELConsults::JMedicDiagnosis",
+                        "description": "JIMUELConsults::JmedicDiagnosis: indicazione della patologia in essere."
+                    },
+                    {
+                        "index": 21,
+                        "type": "string",
+                        "name": "ClinicadelPaziente",
+                        "description": "Clinica del Paziente: esame clinico durante il quale il medico, dopo aver effettuato l'anamnesi, e aver raccolto i segni tramite l'esame obiettivo, può ipotizzare la presenza\\assenza di determinate patologie e prescrivere gli accertamenti adeguati per giungere alla diagnosi. "
+                    },
+                    {
+                        "index": 22,
+                        "type": "string",
+                        "name": "JIMUELConsults::JMedicAnalysisRequest",
+                        "description": "JIMUELConsults::JmedicDiagnosis: indicazione della patologia in essere."
+                    },
+                    {
+                        "index": 23,
+                        "type": "string",
+                        "name": "Sintomi",
+                        "description": "Sintomi: indica il corredo di sensazioni anomale presumibilmente provocate da un qualsiasi evento patologico"
+                    },
+                    {
+                        "index": 24,
+                        "type": "string",
+                        "name": "Stato",
+                        "description": "Stato: descrive l’avanzamento dei consulti effettuati e se sono ancora in corso"
+                    },
+                    {
+                        "index": 25,
+                        "type": "datetime",
+                        "name": "Data",
+                        "description": "Data: Data del teleconsulto",
+                        "temporal_extent": "2007-01-08T00:00:00/2014-11-06T00:00:00"
+                    },
+                    {
+                        "index": 26,
+                        "type": "string",
+                        "name": "Clinica",
+                        "description": "Clinica: sede della workstation emittente"
+                    },
+                    {
+                        "index": 27,
+                        "type": "string",
+                        "name": "JIMUELClinicFolder KEY::CartellaN",
+                        "description": "CartellaN: Indentificativo del consulto effettuato sul paziente"
+                    },
+                    {
+                        "index": 28,
+                        "type": "datetime",
+                        "name": "JIMUELClinicFolder KEY::Data",
+                        "description": "JIMUELClinicFolder : cartella che raccoglie tutte i teleconsulti associabili a un ID in ordine cronologico",
+                        "temporal_extent": "2007-01-08T00:00:00/2014-06-14T00:00:00"
+                    },
+                    {
+                        "index": 29,
+                        "type": "string",
+                        "name": "ICD10_Report",
+                        "description": "La ICD-10 - decima revisione della classificazione Internationa Classification of Disease proposta dall'OMS."
+                    },
+                    {
+                        "index": 30,
+                        "type": "string",
+                        "name": "MedicoResponsabile",
+                        "description": "Medico Responsabile: medico che ha preso in carico il consulto"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,935 @@
+"PersonalKey","CartellaN","Sex","DataNascita","Età","LuogoNascita","Peso","Altezza","JIMUELTerapy::JMedicDiagnosis","PressioneArteriosa","FrequenzaCardiaca","Temperatura","AttiRespiratoriMin","Città","JIMUELTerapy::JMedicTherapy","AttivitàLavorativa","JIMUELVitalStatistic::Anamnesi","JIMUELTerapy::JMedicAnalysisRequest","Allergie","JIMUELConsults::JMedicnickname","JIMUELConsults::JMedicDiagnosis","ClinicadelPaziente","JIMUELConsults::JMedicAnalysisRequest","Sintomi","Stato","Data","Clinica","JIMUELClinicFolder KEY::CartellaN","JIMUELClinicFolder KEY::Data","ICD10_Report","MedicoResponsabile"
+"HABILITOKYLA732217INDANGCAVITE","JC 2","F","28/09/2005","2","Indang, Cavite","8",,,,,"38,9",,"Cavite City",,,,,,"carlofrasca","Probabile Broncopolmonite
+Pneumonia (lung desease","Somministrata carbocisteina
+Ventolin per aerosol","XRay Torax","Febbre persistente  38,5 C° dal 4 maggio
+Dispnea
+Sospetta TBC","Archived","15/05/2007",,"JC 2","15/05/2007",,"NoMainMedic"
+"PILODANILO730419LALAANIISILANGCAVITE","JC 3","M","26/10/2000","7","Lalaan II, Silang, Cavite",,,,,,,,"Cavite City",,,,,,"carlofrasca","Stafilococcia cutanea disseminata.","Lesioni cutanee circolari con area centrale ulcerata. Diffuse su tutta la superfice corporea.
+15 giorni fa episodio febbrile attualmente risolto con somministrazione di amoxicillina.",,"Linfonodi ascellari non dolenti eaumentati di volume.
+Prurito in corrispondenza delle lesioni e nelle aree circostanti.","Active","15/05/2007",,"JC 3","15/05/2007",,"NoMainMedic"
+"PILOROSARIO719077ALAMINOSLAGUNA","JC 4","F","07/10/1969","38","Alaminos,Laguna","50",,,"120/80","70",,"25","Cavite City",,"Housewife",,,,"sisinapoli","See Tests/Analysis Request","Eta: 38
+Peso:  50 kg
+PA: 120/80
+FC:  70
+Atti Respiratori: 25","Thyroid ecografy; Blood analysis for Thyroid hormones (T3,T4,TSH)","Struma tiroideo
+Difficoltà dichiarate in fase espiratoria
+non  dichiara problemi asmatici","Active","15/05/2007",,"JC 4","15/05/2007",,"NoMainMedic"
+"BAUTISTANICANORJR722244LALAANIISILANGCAVITE","JC 10","M","09/06/1978","29","Lalaan II, Silang, Cavite","65",,,"120/80",,,,"Cavite",,"Laborer","Due sorelle morte giovanissime per problemi(non precisati) ai reni, altri due fratelli apparentemente in buona salute. Da  settembre 2006 l’inizio della sintomatologia ,caratterizzata da difficoltà respiratorie da elevati livelli pressori ,150/80 ,dolore in corrispondenza delle logge renali,nessun esame diagnostico effettuato. Da dicembre 2006 assume discontinuamente Captopril ",,,,,,,"Riferita Ipertensione Arteriosa, Algie in sede lombare bilateralmente, Dispnea, Disuria,","Active","28/05/2007",,"JC 10","28/05/2007",,"NoMainMedic"
+"PILODANILO730419LALAANIISILANGCAVITE","JC 13","M","26/10/2000","7","Lalaan II, Silang, Cavite","20",,,,,,,"Cavite City",,,,,,,,,,"Follow Up 
+Quadro clinico nettamente migliorato","Active","28/05/2007",,"JC 3","15/05/2007",,"NoMainMedic"
+"CORPUZCHRISTIAN728128LALAANIISILANG","JC 14","M","19/07/1994","13","Lalaan II, Silang","30",,,,,,,"Cavite",,,"E’ stato sottoposto a vaccinazione anti TBC . Appendicectomia nel 2000,nel 2005 episodio di cistite trattato  con Co-trimoxazolo;.",,,"carlofrasca","Infezioni Urinarie Recidivanti"," Il bambino si alimenta con difficoltà perché ha scarso appetito ; gli episodi di cistite  si sono ripetuti negli ultimi tempi con maggiore frequenza ed intensità dei sintomi . La sintomatologia urinaria è accompagnata da rialzo termico mattutino (38). In atto non assume alcun farmaco
+
+COMPLETE BLOOD COUNT
+WBC COUNT........7.0 X 10 9 1L
+HEMATOCRIT.......0.45
+HEMOGLOBIN......150 g 1L
+ RBC MORPHOLOGY...nORMOCYTIC, NORMOCHROMIC
+PLALELET COUNT.......Adequate
+ 
+DIFFERENTIAL COUNT......0.46
+LYMPHOCYTES................0.44
+EOSINOPHILS...................0.10
+ 
+ 
+URINALYSIS
+ 
+MACROSCOPIC EXAMINATION
+color......yellow
+transparency...claer
+reaction.....6-0
+spicific Gravity....1-020
+Sugar.................negative
+protien................+2 
+ 
+ 
+MICROSCOPIC EXAMINATION
+RBC............0-1 thpf
+wbc.............0-3 thpf
+ 
+casts..........none seen
+ 
+ 
+FECALYSIS
+ 
+Macroscopic Examination
+Color.......... brown
+character.....soft
+ 
+Microscopic examination
+ 
+RBC....NONE SEEN
+WBC,....none seen
+ 
+
+parasites...no ova/ parasite seen  ,  ","Ecografia Renale (per anomalie morfologiche) e se necessaria Cistografia Retrograda (reflusso vescicolo-uretrale)","Frequenti capogiri ; riferisce un episodio  di lipotimia. Inappetenza.","Active","28/05/2007",,"JC 14","28/05/2007",,"NoMainMedic"
+"HABILITOKYLA732217INDANGCAVITE","JC 15","F","28/09/2005","2","Indang, Cavite","8",,,,,"37,2",,"Cavite City",,,,,,,,"The patient assumed Amoxiciline only for 3   days (stoped  on May 21) 
+She appear really well but  temperature   is not  OK",,"Follow Up","Active","07/06/2007",,"JC 2","15/05/2007",,"NoMainMedic"
+"PILODANILO730419LALAANIISILANGCAVITE","JC 17","M","26/10/2000","7","Lalaan II, Silang, Cavite","30",,,,,"37",,"Cavite City",,,,,,,,"The Wounds appears really better",,"Follow Up","Archived","07/06/2007",,"JC 3","15/05/2007",,"NoMainMedic"
+"CADAVONAMANILYN731513LALAAN2SILANGCAVITE","JC 18","F","25/10/2003","4","Lalaan 2, Silang, Cavite","12",,,,,"37",,"Cavite",,,"Il fratellino è morto qualche mese fa con una febbre non diagnosticata (è lui JIMUEL)",,,"admin","Probabile infezione intestinale","38.5 la notte scorsa
+non segni di  disidratazione
+lingua umida",,"lacrimazione, mal di pancia
+2 scariche di diarrea nella giornata odierna
+inappetente
+","Active","08/06/2007",,"JC 18","08/06/2007",,"NoMainMedic"
+"CADAVONAMANILYN731513LALAAN2SILANGCAVITE","JC 19","F","25/10/2003","4","Lalaan 2, Silang, Cavite","12",,,,,"36,8",,"Cavite",,,"Il fratellino è morto qualche mese fa con una febbre non diagnosticata (è lui JIMUEL)",,,,,"Non più fenomeni di riacutizzazione febbrile notturna.
+Lacrimazione normalizzata.
+Ritornato appetito.
+Evacuazione Normale.",,"Follow Up","Active","12/06/2007",,"JC 18","08/06/2007",,"NoMainMedic"
+"AGUSTINESRANDEL731086LALAAN11SILANGCAVITE","JC 20","M","24/08/2002","5","lalaan 11, Silang, Cavite","15",,,,"0",,,"Cavite",,,,,,"admin","Infected Burn","Ha avuto febbre a 40,5 dal 5 al 10 giugno",,"Ustione di 2° grado infetta da 3 settimane alla superficie cutanea del ginocchio","Archived","13/06/2007",,"JC 20","13/06/2007",,"NoMainMedic"
+"HABILITOKYLA732217INDANGCAVITE","JC 21","F","28/09/2005","2","Indang, Cavite","12",,,,,"36",,"Cavite City",,,,,,"carlofrasca","Reperto Occasionale: Ascaride","Sta assumendo da 3 giorni:
+
+Cloranfenicolo 60ml
+prednisolone 60ml
+Carbocisteina
+Salbutamolo",,"Polmonite • Tosse • Parassitosi intestinale
+
+Dall' inizio della terapia suindicata
+la febbre è rientrata e la bimba riposa bene di notte.","Archived","20/06/2007",,"JC 2","15/05/2007",,"NoMainMedic"
+"MANZANILLOROLLY731520LALAANIISILANGCAVITE","JC 22","M","01/11/2003","4","Lalaan II, Silang, Cavite","12",,,,,"37,5",,"Cavite",,,,,,"pino","Rinofaringite - otite catarrale","9luglio2007:
+HEMATOLOGY:
+COMPLETE BLOOD COUNT... 12/L
+RBC...4.0X10
+WBC...7.6X109/L
+HEMATOCRIT...  .36
+HEMOGLOBIN...120g/L
+
+SEGMENTERS...  .78
+LYMPHOCYTES...   .22
+platelet count... 206,000/3
+DESCRIPTION OF BLOOD SMEAR:
+RBC... Normocytic/Normochromic
+
+
+
+non riesce a dormire la notte per la tosse e la febbre
+(38,7 - 39,00)
+",,"Tosse e febbre da 4 giorni
+mal d'orecchi rilevato alla pressione
+mal di gola
+Viene riferito dolore addominale causato dalla tosse
+A volte la tosse gli provoca vomito","Active","20/06/2007",,"JC 22","20/06/2007",,"NoMainMedic"
+"DELMUNDOXELLERGENE730163LALAANIISILANGCAVITE","JC 23","F","13/02/2000","7","lalaan II, silang, Cavite","19","115","SOSPETTA INFEZIONE URINARIA",,,"37",,"Cavite","AMOXICILLINA SCIROPPO
+500 MG (10 ML) MATTINO E SERA PER SETTE GIORNI",,"La madre è morta per insufficenza renale nel novembre 2006 all’ età di 31 anni. Era in dialisi.
+Il padre ha 26 anni in salute.
+Non ha fratelli.
+","ESAME URINE ",,"granchietto","SOSPETTA INFEZIONE URINARIA","June 27,2007
+URINALYSIS
+ 
+COLOR.........YELLOW
+SUGAR...NEGATIVE
+CHARACTER....Sl. turbid
+REACTION.......7-5
+SP.GR............1.010
+ 
+MICROSCOPE EXAM.
+PUS CELLS.............6-8/hp7
+RBC.........................0-2
+ARMORPHOUS URATES.few
+MUCUS THREADS....rare
+
+April 20,2007
+FECES EXAM
+color: brown
+form; formal
+Ova of Parasite: no ova or parasite form seen
+ 
+MICROSCOPE EXAM
+PUS CELLS: 0-2/lpt
+RBC: 0-1
+BACTERIA: FEW
+ 
+URINALYSIS:
+cOLOR: YELLOW
+REACTION: 6-0
+SP.GR. 1-030
+ 
+MICROSCOPE EXAM:
+PUS CELLS: 6-8/lpt
+RBC: 0-2
+AMORPHOUS URATES: few ova","ESAME URINE ","Tosse e febbre da due giorni.
+Mal di pancia quasi ogni giorno da quasi un anno riferita oliguria con urine concentrate, accompagnate da dolore e bruciori minzionali.Ha eseguito esami (non meglio precisati) dai quali risulta  infezione alle vie urinarie.Per tali disturbi non ha mai assunto alcun farmaco .Per il riferito mal di stomaco assume Maalox e per i ricorrenti episodi febbrili  Paracetamolo","Active","22/06/2007",,"JC 23","22/06/2007",,"granchietto"
+"CORPUZROSARIO716894LALAANIISILANGCAVITE","JC 24","F","16/10/1963","44","Lalaan II, Silang, Cavite","63","140",,"160/120",,"36",,"Cavite",,"Helper",,,,,,"she has a hypertension for 3 years.",,,"Active","27/06/2007",,"JC 24","27/06/2007",,"NoMainMedic"
+"CARINGALKIACLAIRE730470LALAANIISILANGCAVITE","JC 25","F","16/12/2000","7","lalaan II, Silang, Cavite","18","117","PROBABILE REFLUSSO GASTROESOFAGEO",,,"36,5",,"cavite","Malox sciroppo: 2 cucchiaini 15' dopo i pasti
+Zantac sciroppo 10 ml ogni 12 ore
+il tutto per 20 giorni
+per lo Zantaca non ci sono sostituti
+ ",,,,,"scintilla","PROBABILE REFLUSSO GASTROESOFAGEO","URINALYSIS (02 luglio 2007)
+PHYSICAL:
+COLOR: Yellow
+Transparency: Hazy
+pH: 6.0
+Specific gravity: 1.015
+CHEMICAL:
+Albumin: Neg
+Sugar: Neg
+Other:
+
+MICROSCOPIC
+CELLS:
+Pus Cells: 1-3/hpf
+Red Blood cells: 0-2/hpf
+Ephitelial Cells: +1
+Mucus threads: +2
+Bacteria: occ'l
+
+STOOL EXAMINATION
+ ( Data: 30 giugno 2007)
+
+PHYSICAL:
+Color: Dark Brown
+Consistency: Formed
+
+MICROSCOPIC:
+Pus Cells: 0
+Red Blood cells: 0
+BACTERIA:  +4
+
+NO OVA & PARAITES SEEN
+
+
+",,"5/7/07:
+si avverte da un mese
+bruciore allo stomacco e senso di vomito.  alvo stitico
+si sospetta L'ULCERA.
+ somministrazione di MAALOX e COTRIMAXOLE  da  2 luglio 2007","Active","29/06/2007",,"JC 25","29/06/2007",,"scintilla"
+"MANUSISMAELITA706912CEBURP","JC 26","F","17/06/1936","71","CEBU, RP","40",,"IRC terminale. infezione cronica. probabile malnutrizione.
+sarebbe utile conoscere la creatinina dei mesi precedenti e sapere e quando ha iniziato la rifampicina","120/80",,"368",,"CEBU","molto probabilmente la signora deve iniziare il trattamento emodialitico.aspetto la risposta alle domande fatte in precedenza. cordiali saluti Stefania","DISOCCUPATA",,,,"UROVERB","IRC al 4 stadio da probabili cause extrarenali(diabete mellito-ipertensione)","4LUGLIO2007:
+ROUTINE URINALYSIS
+COLOR... YELLOW
+TRANSPARENCY... CLOUDY
+REACTION...6.0
+SPECIFIC GRAVITY...1.010
+ALBUMIN...+1
+SUGAR...NEGATIVE
+MICROSCOPIC:
+PUS CELLS...20-25/hpf
+RED BLOOD CELLS...1-3/hpf
+EPHITELIAL CELLS...+2
+BACTERIA...+2
+
+POTASSIUM...4.34
+CRETININE...585
+
+4MAGGIO 2007
+CREATININA...11.6
+KETOSTERIL 600MG
+RENOGEN VIAL 4000
+ALLURASE 100MG.
+RIFAMPICIN
+ETHAMBUTOL 500 MG.
+ALERTEN  CAP.
+
+
+glucose... 106 mg/dl
+creatinine... hi.... 7.1
+uric acid... hi... 9.9
+
+hematology
+hematocrit... 31.9
+
+ROUTINE URINALYSIS
+COLOR... YELLOW
+TRANSPARENCY... CLOUDY
+REACTION...8.0
+SPECIFIC GRAVITY...1.007
+PROTEIN...+2","controllare la kaliemia (K) e ove possibile praticare una emogasanalisi. eseguire comunque un ecografia renale per escludere possibili cause ostruttive",,"Active","02/07/2007",,"JC 26","02/07/2007",,"stefania52"
+"REYESRIZALINA705475CAVINTILAGUNA","JC 29","F","11/07/1932","75","CAVINTI,LAGUNA","51",,,"180/100","76","36","26","LAGUNA",,"DISOCCUPATA","La p. ha subito l'infarto nel 1998. 
+Soffre di pressione alta. non edima alle cavaglie,
+dispnea nei piccoli movimenti anche  nei piccoli spostamenti. la p. assumeva il PLENDIL da circa 2 anni ma ha dovuto suspendere  perchè sentiva stordimento.",,,"sisinapoli","    ","plendil ",,,"Active","03/07/2007",,"JC 29","03/07/2007",,
+"CAPARASANDREAMAE728786","JC 31","F","07/05/1996","11",,"38",,"Sospetta infezione batterica","90/70","74","385","21","SILANG, CAVITE","Amoxicillina 500 mg ogni 8 ore per 7 giorni
+Continuare ambroxol",,,,,"scintilla","faringotonsillite con possibile complicanza bronchiale",,,"TOSSE DA 2 SETTIMANE. SOMMINISTRATO AMBROXOL. FEBBRE DA 2 GIORNI . ASSENTE LINFONODI.  MAL DI GOLA E CAPOGIRI
+
+stata somministrata AMOXICILLINA 250mg e PARACETAMOLO; 
+febbre 37.5; ha avuto diarrea tutto oggi. ","Active","03/07/2007",,"JC 31","03/07/2007",,"pino"
+"MACAWILIMARKROLAND730469SILANGCAVITE","JC 34","M","15/12/2000","7","SILANG, CAVITE","15","110","probabile Reflusso vescico-ureterale sinistro",,,"363",,"Silang, Cavite","la terapia al momento va bene, va proseguita fino a scomparsa dei sintomi o comunque almeno x 2 settimane. Se i sintomi persistono va cambiato antibiotico",,"Il padre soffre di ipertensione, 
+ ha 1fratelo e 1 sorella.
+ha avuto pneumonia all'età di 1 anno","Importante eseguire una ecotomografia dell'apparato urinario e nel caso questa sia normale praticare successivamente una uretrocistografia retrograda per reflusso. Eseguire terapia antibiotica sulla scorta dell'urinocoltura ed antibiogramma",,"uroverb","probabile Reflusso vescico-ureterale sinistro","2 luglio 2007:
+HEMATOLOGY
+HEMOGLOBIN...10.2
+HEMATOCRIT... 30
+RBC COUNT... 3.5
+WBC COUNT... 15.3
+PLATELET... 460
+NEUTROPHIL... 72
+LYMPHOCYTE...25
+
+MONOCITE... 3
+
+URINALYSIS:
+PHYSICAL:
+COLOR.... YELLOW
+TRANSPARENCY CLOUDY
+pH....6.0
+SPECIFIC GRAVITY....1.010
+CHEMICAL:
+ALBUMIN... +1
+SUGAR....NEGATIVE
+
+MICROSCOPIC:
+CELLS:
+PUS CELLS... 35-40 /hpf
+RED BLOOD CELLS: TNTC/hpf
+EPHITELIAL CELLS...occ'l
+MUCUS THREADS....+1
+BACTERIA....+2","Importante eseguire una ecotomografia dell'apparato urinario e nel caso questa sia normale praticare successivamente una uretrocistografia retrograda per reflusso. Eseguire terapia antibiotica sulla scorta dell'urinocoltura ed antibiogramma","5 luglio 2007
+soffre cestiti da due settimana.  urina  massimo 6 volte al dì con difficoltà. dolore al fianco e fossa iliaca sn. febbre.
+TERAPIA (Iniziato 2 luglio):
+CLARITROMYCIN SYRUP 125ml
+6ml 2x al dì 
+CARBOCISTIENE 200ml
+3 x al dì
+PARACETAMOL
+8ml ogni 8 ore
+OPIGESIC SUPPOSITORY
+2 Volte al dì","Suspended","05/07/2007",,"JC 34","05/07/2007",,"uroverb"
+"MANZANILLOROLLY731520LALAANIISILANGCAVITE","JC 35","M","01/11/2003","4","Lalaan II, Silang, Cavite","12",,,,,"369",,"Cavite",,,,,,"zizia",,"HEMATOLOGY:
+COMPLETE BLOOD COUNT... 12/L
+RBC...4.0X10
+WBC...7.6X109/L
+HEMATOCRIT...  .36
+HEMOGLOBIN...120g/L
+
+SEGMENTERS...  .78
+LYMPHOCYTES...   .22
+platelet count... 206,000/3
+DESCRIPTION OF BLOOD SMEAR:
+RBC... Normocytic/Normochromic
+
+
+",,"dopo una settimana della terapia con l'amoxicillin, ha avuto di nuovo la febbre con tosse e raffredore.
+stato somministrato dal  medico  QUI:
+COTRMAXOZOLE 200ml , 
+(6.5ml 2x a dì per 1 settimana)
+CHLORAMPHENICOL 120ml
+(8.6ml 3x al dì)
+SALBUTAMOL SYRUP
+(1.6ml 3x al dì)
+PARACETAMOL
+5.2ml every 4hrs
+CARBOCESTIENE
+2.6ml 3x al dì
+
+","Active","07/07/2007",,"JC 22","20/06/2007",,
+"MANUSISMAELITA706912CEBURP","JC 36","F","17/06/1936","71","CEBU, RP",,,,,,,,"CEBU",,"DISOCCUPATA",,,,,,,,,"Active","09/07/2007",,"JC 26","02/07/2007",,
+"YAMANJAYCEL729633SILANGCAVITE","JC 37","F","01/09/1998","9","Silang, Cavite","19","123",,,,"37",,"Silang, Cavite",,,"il padre soffre di ipertensione, mentre la madre soffre di emicrania.  ha un fratello e una sorella In apparente stato di buona salute.",,,"zizia",,"My name is carlo","Da qaunti giorni ha febbre? ha mal di gola? Ci sono linfoghiandole cervicali?","con febbre da 38, con  forte mal di testa e non riesce a mangiare.   sta somministrando PARACETAMOLO","Active","09/07/2007",,"JC 37","09/07/2007","J13 - Pneumonia due to Streptococcus pneumoniae",
+"RODRIGUEZSHAINA729327SILANGCAVITE","JC 38","F","30/10/1997","10","SILANG, CAVITE","18","120",,,,"372",,"Silang, Cavite",,,"
+4a di sette fratelli.
+ abitazione non protetta dalla pioggia. 
+",,,"zizia",,"da circa 10 giorni si è presentata con febbre, tosse e raffredore. Arrosimento della mucosa faringea, ingrossamento delle tonsilenpalatine. aumento di dimensione delle linfo-ghiandole latero-cervicale. Alitosi","manca la storia clinica",,"Suspended","09/07/2007",,"JC 38","09/07/2007",,
+"RODRIGUEZJUDITH728650SILANGCAVITE","JC 39","F","23/12/1995","12","SILANG, CAVITE","215","128",,,,"368",,"Silang, Cavite",,,,,,,,,,,"Suspended","09/07/2007",,"JC 39","09/07/2007",,
+"BINALLAJESSIE730687LALAANIISILANGCAVITE","JC 40","M","21/07/2001","6","Lalaan II, Silang, Cavite","19","117","Continuare con CAF (20 mg/kg/4 somministrazioni) per 10 giorni e poi rivalutare",,,"375",,"Cavite",,,,"INfezione alte vie respiratorie",,"pino","Continuare con CAF (20 mg/kg/4 somministrazioni) per 10 giorni e poi rivalutare","ha cominciato martedi senza effetti evidenti:
+
+paracetamolo
+solbutamolo
+carbocisteina
+cloroanfenicolo
+cephalicyn","INfezione alte vie respiratorie","Ha febbre da 4 giorni fino a 39
+mal di testa, tosse sofferenza alle spalle
+domenica sera brividi di freddo
+sabato tosse
+dolore alla pressione delle orecchie
+non particolari arrossamenti al cavo orofaringeo
+llinfonodi non palpabili","Active","12/07/2007",,"JC 40","12/07/2007",,"pino"
+"AGUSTINESMARIAKIMGRACE729085QUEZON","JC 41","F","02/03/1997","10","Quezon","22","141",,"80/60",,"362",,"Silang, Cavite",,,"1a di tre fratelli
+Parto: Eutocico
+da quando aveva 2 anni faceva già la terapia per il polmone con RIFAMPICIN, ISONIACID, PYRACINAMIDE
+
+Il fratello è nella stessa condizione
+
+Nel 2004 Rx Toarce Mostra addensamenti nodulari perilari suggestivo di complesso primario
+
+VACCINAZIONE:  anti-polio, bcg, anti hepa
+il padre soffre di ""pulmonary disease"" per cui se ne soffrono tutta la famiglia",,"polline",,,"Tosse  mucosa da quasi due settimane.   38 di febbre, solo ieri non ha avuto febbre perchè ha assunto  paracetamol ",,,"Active","18/07/2007",,"JC 41","18/07/2007",,
+"JINAYONDARLYN729830SILANGCAVITE","JC 42","F","17/03/1999","8","Silang, Cavite","23","124","Infezione virale delle prime vie respiratorie",,,"361",,,"Paracetamolo 250 mg x 2",,"Vaccinazioni: 
+Anti-polio
+Anti-Malaria",,,"admin","Infezione virale delle prime vie respiratorie","febbre  di 38 - 39 da 4 giorni, tosse e raffredore.
+No Mal di Gola all’ atto ma solo nei giorni precedenti
+Non linfonodi aumentati di volume",,,"Active","18/07/2007",,"JC 42","18/07/2007",,"admin"
+"BINALLAJESSIE730687LALAANIISILANGCAVITE","JC 43","M","21/07/2001","6","Lalaan II, Silang, Cavite","19","117",,,"73","36","27","Cavite",,,,,,,,"CHEST PAL X-RAY RESULT (16 luglio):
+There are hazy opacities in both perihilar infrahilar and retrocardiac region with evidence of enlarged hilar and perihilar lymph modes. Heart is not enlarged. Diaphragm and sinuses are negative.
+
+IMPRESSION:
+CONSIDER PRIMARY INFECTION
+
+Addensamento parenchimale LIS con probabili linfoadenopatie ilari . Flogistico",,"Tosse Secca
+Adesso dorme di notte
+Lunedi sera non aveva più febbre
+Poco appetito
+All’ auscultazione sibilo in regione sottoscapolare sinistra e anteriormente","Active","20/07/2007",,"JC 40","12/07/2007",,
+"AGBAYANIERIKAJOY731752TRECEMARTIREZCITY","JC 44","F","20/06/2004","3","Trece Martirez City","14","92",,,"47","38","117","Silang, Cavite",,,"PARTO:  Eutocico
+
+VACCINAZIONE: DPT1 &2, HEPA 1-3, BCG
+
+
+
+
+",,,"granchietto","Dolori addominali legati alla stitichezza.",,,"Febbre da stamattina
+Dolori addominali da circa 2 settimane
+Difficoltà ad evacuare.
+Evacuazione 1 volta al giorno.
+Mal di pancia prima di mangiare, specialmente la mattina, e quando va al bagno.
+Dorme tranqilla
+Beve normalmente.
+Latte, pane, riso Russa quando dorme ,presumibile ipertrofia adenoidea","Active","20/07/2007",,"JC 44","20/07/2007",,
+"MANZANILLOGRACEANGEL728515KALAWAGQUEZON","JC 45","F","10/08/1995","12","Kalawag, Quezon","22","138",,,,"367","26","Cavite",,,"Sottoposta a vaccinazione anti Epatite B",,,"FARFALLA","Si ipotizza tubercolosi polmonare","Da circa un anno è stata diagnosticato (con Rx Torace ) il complesso primario TBC  per il  quale non ha fatto alcuna terapia specifica.Ad ogni rialzo termico veniva somministrata Amoxocillina e Peracetamolo.Sudorazionesopratutto di notte con  emissione di sudore di odore acido ,Emissione di espettorato giallo-verdastro e con strie ematiche.Astenia  ,inappetenza  ","Si consiglia  emocromo ,ferritina,reazione Mantoux,radiografia torace","E’ soggetta al raffredore , tosse e febbre.","Active","20/07/2007",,"JC 45","20/07/2007",,
+"RODRIGUEZOUGINE728830ROMBLON","JC 46","F","20/06/1996","11","Romblon","27","139",,,,"37",,"Cavite",,,"parto eutocico 1 di due sorelle. il padre soffre di ipertensione ",,,"granchietto",,"febbre  serale a 38 massimo. tosse secca. quando si sfoza a mangiare vomita e spesso volte sente bruciore 
+quando va a urinare. 
+MV normotrasmesso.",,,"Active","20/07/2007",,"JC 46","20/07/2007",,
+"YAMANJAYCEL729633SILANGCAVITE","JC 47","F","01/09/1998","9","Silang, Cavite","20","123",,,,"366",,"Silang, Cavite",,,"il padre soffre di ipertensione, mentre la madre soffre di emicrania.  ha un fratello e una sorella In apparente stato di buona salute.",,,"granchietto","Emicrania su base familiare","Nata a termine da parto eutocico accrescimento regolare, impubere Ha effettuato tutte le vaccinazioni disponibili ad esclusione della anti Epatite B ",,"Emicrania
+Non associata a vomito
+In genere al ritorno dalla scuola la sera
+Disturbo non presente nei giorni non scolastici
+Al mattino, al risveglio, nessun disturbo","Active","20/07/2007",,"JC 37","09/07/2007",,
+"CAPARASANGELO729905LALAAN2SILANGCAVITE","JC 48","M","31/05/1999","8","Lalaan 2, Silang, Cavite","20","124",,,,"365",,"Cavite",,,"Vaccinazioni effettuate
+Soffre di anemia sideropenica
+Ultima terapia maggio 2006 con assunzione di solfato ferroso",,,"FARFALLA","Congiuntivite virale",,,"Occhi  arrossati
+un occhio per volta fino a due settimane
+con secrezione
+Il problema è diffuso in tutta la classe scolastica","Active","20/07/2007",,"JC 48","20/07/2007",,
+"HAMORCHARLOTTE729574SILANGCAVITE","JC 49","F","04/07/1998","9","silang, cavite","19","119",,,,"368",,,,,"parto eutocico, 3a di 6 fratelli",,,"granchietto","mastoidite ?","avuto varicella , raffredore continuo e febbre da 2 settimana, dolorabilità alla palpazione retroauricolare. non ha fatto nessuno esami",,,"Active","25/07/2007",,"JC 49","25/07/2007",,
+"BENITEZRICKY729163SILANGCAVITE","JC 50","M","19/05/1997","10","Silang, Cavite","19","116",,,,"372",,,,," 4° di 5 fratelli, alimentazione carente,",,,"granchietto","RINOFARINGITE ?","raffredore, febbre continuo, mal di pancia
+",,,"Active","25/07/2007",,"JC 50","25/07/2007",,
+"AMONJIMMINAYVONNE730153","JC 51","F","03/02/2000","7",,"15","110",,,,"366",,,,,"parto eutocico. figlia di una ragazza madre, 
+vaccinazione completa,vive con la nonna",,,"granchietto",,"da quando aveva 5 anni si nota la crescita ""anormale"" della  parte intima, 
+MONS PUBIS","NON SI COMPRENDE IL PROBLEMA. OCCORRE ESSERE PIù CHIARA NELLA DESCRIZIONE",,"Active","25/07/2007",,"JC 51","25/07/2007",,
+"AGUSTINESMARIAKIMGRACE729085QUEZON","JC 52","F","02/03/1997","10","Quezon",,,,,,,,"Silang, Cavite",,,"1a di tre fratelli
+Parto: Eutocico
+da quando aveva 2 anni faceva già la terapia per il polmone con RIFAMPICIN, ISONIACID, PYRACINAMIDE
+
+Il fratello è nella stessa condizione
+
+Nel 2004 Rx Toarce Mostra addensamenti nodulari perilari suggestivo di complesso primario
+
+VACCINAZIONE:  anti-polio, bcg, anti hepa
+il padre soffre di ""pulmonary disease"" per cui se ne soffrono tutta la famiglia",,"polline","granchietto","NON RIESCO A COMPRENDERE IL PROBLEMA","X-RAY RESULT (26 luglio
+both lung fields are clear. the heart is not enlarged. the visualized bony thorax, hemidiaphragms and sinuses are  negative",,"follow up","Active","30/07/2007",,"JC 41","18/07/2007",,
+"CADAVONAMANILYN731513LALAAN2SILANGCAVITE","JC 53","F","25/10/2003","4","Lalaan 2, Silang, Cavite","13","95",,,,"365",,"Cavite",,,"Il fratellino è morto qualche mese fa con una febbre non diagnosticata (è lui JIMUEL)",,,,,"sabato ha avuto la febbre a 40. stato somministrato paracetamol e  carbocestien.  tosse  mucosa. ",,"sabato ha avuto la febbre a 40. stato somministrato paracetamol e  carbocestien.  tosse  mucosa. ","Active","30/07/2007",,"JC 18","08/06/2007",,
+"MALLARIALIYAHMARGARET730828DASMACAVITE","JC 54","F","09/12/2001","6","Dasma, Cavite","20","113",,,,"36",,"Silang, cavite",,,"Parto eutocico.
+1a dei tre fratelli. cresita normale, vaccinazione completa",,,"granchietto","POTREBBE ESSERE UNA IMPETIGINE",,,"Lesioni cutanee diffuse","Active","01/08/2007",,"JC 54","01/08/2007",,
+"CARINGALNISSANELLAINA729698SILANGCAVITE","JC 55","F","05/11/1998","9","Silang, cavite","25","132","Faringotonsillite",,,"368",,"Silang, cavite","Amoxicillina 500 mg x 2 Tachipirina 250 mg al bisogno",,"Parto eutocico. crescita regolare. vaccinazione completa. il padre soffre ipertensione. ",,,"clarabella","Faringotonsillite","tonsili ingrossata, 
+febbre da tre giorni, 
+tosse e raffredore. ",,"tonsili ingrossata, 
+febbre da tre giorni, 
+tosse e raffredore. ","Active","01/08/2007",,"JC 55","01/08/2007",,"clarabella"
+"DAOLYKAMARIE729415SILANG","JC 56","F","26/01/1998","9","Silang","25","130","Faringotonsillite",,,"36",,"Silang, Cavite","   amoxicillina 500 mg x 2
+tachipirina 250 mg al bisogno",,"Parto eutocico, 
+crescita normale,  
+vaccinazione  completa",,,"clarabella","Faringotonsillite","tonsili infiammata. febbre e tosse da 1 settimana",,"tonsili infiammata. febbre e tosse da 1 settimana","Active","01/08/2007",,"JC 56","01/08/2007",,"clarabella"
+"MANZANILLOGRACEANGEL728515KALAWAGQUEZON","JC 57","F","10/08/1995","12","Kalawag, Quezon",,,,,,,,"Cavite",,,"Sottoposta a vaccinazione anti Epatite B",,,"granchietto",,"analisi del 6 agosto 2007:
+HEMOGLOBIN: 13.2
+HEMATOCRIT: 39
+RBC COUNT: 4.3
+WBC COUNT: 8.4
+PLATELET COUNT: 332
+NEUTROPHIL: 52
+LYMPHOCYTE: 40
+MONOCYTE:8
+
+ROENTRGENOLOGICAL FINDINGS:
+The perihilar vascular markings are prominent with no definite active lung infiltrates. 
+Heart is not enlarged.
+Diaphragm and the rest of the thoracic structures are unremarkable.
+
+IMPRESSION:
+UNREMARKABLE CHEST STUDY",,"Blood Tests","Archived","22/08/2007",,"JC 45","20/07/2007",,
+"DANOMARIAKARINNA729429IMUS","JC 58","F","09/02/1998","9","Imus","41","123",,,,"365",,,,,"Parto eutocico. 3a dei  4 fratelli. ",,,"granchietto","DOLORI ADDOMINALI FUNZIONALI (C'è STIPSI ? )","sintomi da reffreddamento da un mese ;inappetenza e dolori addominali con alvo regolare ",,"sintomi da reffreddamento da un mese ;inappetenza e dolori addominali con alvo regolare","Active","22/08/2007",,"JC 58","22/08/2007",,
+"DATOONJOHNRENZ731663","JC 59","M","23/03/2004","3",,"11","95",,,,"366",,,,,,,,"granchietto","VARICELLA CON PUSTOLE DA PROBABILE SOVRA INFEZIONE BATTERICA",,," VARICELLA IN CORSO, 
+FEBBRE  A 39 CON TOSSE . TERAPIA CON ISOPRENOSYN, PARACETAMOL CHLORAMPENICOL","Active","22/08/2007",,"JC 59","22/08/2007",,
+"BUCOYAJENAJOY729121SILANGCAVITE","JC 60","F","07/04/1997","10","Silang, Cavite","50","129",,,,"364",,"Silang, Cavite",,,"Il padre ed il  fratello maggiore sono  affettti da TBC  La madre soffre di asma !!!Un fratello di 12 anni è deceduto in seguito a malattia non diagnosticata . Altri 5 fratelli viventiin apparente stato di buona salute.",,,"granchietto","Potrebbe anche essere, considerata la storia familiare, una malattia tubercolare. Se fosse possibile farei un torace",,,"La bambina ha sempre la febbre, abita in una baracca ","Active","22/08/2007",,"JC 60","22/08/2007",,
+"CAPARASANGELO729905LALAAN2SILANGCAVITE","JC 61","M","31/05/1999","8","Lalaan 2, Silang, Cavite",,,,,,,,"Cavite",,,"Vaccinazioni effettuate
+Soffre di anemia sideropenica
+Ultima terapia maggio 2006 con assunzione di solfato ferroso",,,"granchietto","nON SI COMPRENDE QUALE E' IL PROBLEMA","25/08/2007
+Xray Result:
+Small nodular opacities are seen in the perihilar areas.
+Heart is not enlargerd.
+Diaphragm and the rest of the visualized thoracic structure are unremarkable",,"X-RAY","Active","03/09/2007",,"JC 48","20/07/2007",,
+"CAFEKHESIE728699SILANGCAVITE","JC 62","F","10/02/1996","11","Silang, Cavite","142","30",,,,"37",,"Silang",,,"Parto eutocico, 5a di 8 fratelli. 
+",,,"clarabella","anemia?","Soffre vertigine da quasi un mese, 
+vomito e capogiri. 
+ha avuto influenza da 2 settimane, 
+febbre a 38 , stato somministrato paracetamol.
+All'auscultazione non si apprezzano rumori patologici. il  MV è normotrasmesso su totto l'ambito pulmonare 
+","utile eseguire esame emocromocitometrico
+dati anamnestici scarsi","Soffre vertigine da quasi un mese, 
+vomito e capogiri. ","Active","11/09/2007",,"JC 62","11/09/2007",,
+"DESTAJOCLARISSA728293","JC 63","F","31/12/1994","13",,"27","135",,,,,,,,,"parto eutocico. la piu grande di due sorelle.
+ ha avuto la menarca il 25 marzo 2007.
+la mamma soffre di tbc",,,"clarabella","sospetta TBC","febbre serale tosse secca, abiatzione molto disagiata, le condizione igieniche nell'ambiente dove Clarissa vive è molto precarie.
+MV normotrasmesso","vista l'anamnesi familiare è necessario eseguire rx torace","ebbre serale tosse secca, abiatzione molto disagiata, le condizione igieniche nell'ambiente dove Clarissa vive è molto precarie.
+","Active","11/09/2007",,"JC 63","11/09/2007",,
+"BUCOYAJENAJOY729121SILANGCAVITE","JC 64","F","07/04/1997","10","Silang, Cavite",,,,,,,,"Silang, Cavite",,,"Il padre ed il  fratello maggiore sono  affettti da TBC  La madre soffre di asma !!!Un fratello di 12 anni è deceduto in seguito a malattia non diagnosticata . Altri 5 fratelli viventiin apparente stato di buona salute.",,,"granchietto","Probabile broncopolmonite. ","ROENTGENOLOGICAL FINDINGS
+ (07 SETT, 2007):
+There are hazy densities in both lower lungs. Heart is not enlarged. Diaphgram and the rest of the thoracic stuctures  are unremarkable.
+IMPRESSION: PNEUMONITIS LOWER LUNGS
+
+HEMATOLOGY:
+Hemoglobin  12.9
+hematocrit  38
+RBC Count 4.2
+WBC Count 9.1
+Platelet count : Adequate
+Neutrophil 57
+Lymphocyte 41
+Monocyte 2",,"Altri Dati • Referto RX Torace","Active","13/09/2007",,"JC 60","22/08/2007",,
+"BUCOYAJENAJOY729121SILANGCAVITE","JC 65","F","07/04/1997","10","Silang, Cavite","24","130",,,,"363",,"Silang, Cavite",,,"Il padre ed il  fratello maggiore sono  affettti da TBC  La madre soffre di asma !!!Un fratello di 12 anni è deceduto in seguito a malattia non diagnosticata . Altri 5 fratelli viventiin apparente stato di buona salute.",,,"granchietto","Probabile broncopolmonite","Rialzo termico ""37.5-38°"" 2 volte la settimana che regredisce con la somministazione di paracetamolo.
+chest xray (7 sett)
+there are hazy densities in both lower lungs. heart is not enlarged. Diaphgram and the rest of the thoracic stuctures are unremarkable. 
+IMPRESSION:  PNEUMONITIS LOWER LUNGS
+
+HEMATOLOGY:
+Hemoglobin 12.9
+hematocrit 38
+RBC COUNT 4.2
+WBC COUNT 9.1
+Platelet count: Adequate
+Neutrohil 57
+Lymphocyte 41
+Monocyte 2",,"Altri Dati • Esami Laboratorio","Active","13/09/2007",,"JC 60","22/08/2007",,
+"PILOALDRIN729612SILANGCAVITE","JC 66","M","11/08/1998","9","Silang, Cavite","20","120",,,,"363",,"Silang, Cavite",,,"Parto eutocico, 4° di 6 fratelli.  
+la madre ha il thyrroid.",,,"clarabella","bronchite asmatica?","XRAY TORACE (18SETT,2007)
+Streaky and some small nodular opacities are seen in the perihilar areas. The heart is not enlarged. Diapghram abd the rest of the thoracic structures are unremarkable.
+IMPRESSION: CENTRAL PNEUMONITIS. 
+CONSIDER NON-SPECIFIC HILAR LYMHDENOPATHIES .
+
+HEMATOLOGY:
+hemoglobin 14.6
+hematocrit 43
+RBC count 4.8
+WBC count 10.2
+platelet count: adequate
+neutophil 43
+lymphocyte 54
+monocyte 3
+tosse secca prevalentemente notturna da quasi 2 mesi. 
+MV normotrasmesso non interessamento delle tonsili palatine ","scarsi dati anamnestici 
+utile rx torace 
+esame emocromocitometrico + 
+IGg IGe ","tosse secca prevalentemente notturna da quasi 2 mesi. ","Active","13/09/2007",,"JC 66","13/09/2007",,
+"CABISONGEMBER730087SILANGCAVITE","JC 67","M","29/11/1999","8","Silang, Cavite","20","125",,,,,,"silang, Cavite",,,"Parto eutocico. 2° di tre fratelli, vaccinazioni completa.  All'età di 1 anno, stato diagnosticato di bronco-pneumonia, ",,,"clarabella","verosimile pio dermite","Presenza di formazioni purulenti nella regione frontale alla sopracigliare sinistra, nella cute degli arti inferiore che si ripetono circa ogni mese","non soddisfacenti le foto scattate al ragazzo ","Presenza di formazioni purulenti nella regione frontale alla sopracigliare sinistra, nella cute degli arti inferiore che si ripetono circa ogni mese","Active","13/09/2007",,"JC 67","13/09/2007",,
+"CARINGALNISSANELLAINA729698SILANGCAVITE","JC 68","F","05/11/1998","9","Silang, cavite","28","134",,"96/52","113","36,8",,"Silang, cavite",,,"Parto eutocico. crescita regolare. vaccinazione completa. il padre soffre ipertensione. ",,,"granchietto","Infezione vie aeree superiori"," febbre a 38,7  e tosse secca.  
+senso di vomito, 
+ha sanguinato il naso,
+somministrato paracetamolo, carbocistiena.
+all'auscultazione nulla do patologicamente rilevato",,"febbre a 38,7  e tosse secca.  
+senso di vomito, 
+ha sanguinato il naso,","Active","18/09/2007",,"JC 55","01/08/2007",,
+"OLEGARIOMARIAELMA729384ANTIQUE","JC 69","F","26/12/1997","10","Antique","19","131",,,,"382",,"Silang, Cavite",,,"Parto eutocico, primogenita, ha 1 fratello e 2 sorelle. manca il vaccino anti hepatite.
+",,,"granchietto","Quadro clinico e reperto obiettivo toracico compatibile con broncopolmonite.","ha febbre da i settimana. tosse e raffredore,
+somministrato paracetamol, cefalexin.
+
+all'auscultazione presenza di rumori umidi in campo medio basale dx",,"ha febbre da i settimana. tosse e raffredore,
+somministrato paracetamol, cefalexin.","Active","18/09/2007",,"JC 69","18/09/2007",,
+"BUCOYARAFFY728294SAILANG","JC 70","M","01/01/1995","12","Sailang","25","135",,,,"37",,"Silang, Cavite",,,"Parto eutocico, 5° di 6 fratelli, il padre è ammalato con la TBC, mentre la madre è asmatica. 
+all'età di 9 anni è stato diagnosticato anche con PRIMARY COMPLEX, ha fatto la terapia con isoniazyd per 1 anno.
+",,,"granchietto","E' opportuno che esegua Rx torace.","febbre quasi ogni sera, viene medicato con terapia tradizionale del luogo",,"febbre quasi ogni sera","Active","18/09/2007",,"JC 70","18/09/2007",,
+"BINALLAJESSIE730687LALAANIISILANGCAVITE","JC 71","M","21/07/2001","6","Lalaan II, Silang, Cavite","18","117",,,,"368",,"Cavite",,,,,,"granchietto","Bronchite asmatica","all'auscultazione odierna mette in evidenza rumori secchi (gemiti esibili esperatori) nei campi medi di entrambi di torace",,"Follow Up","Active","18/09/2007",,"JC 40","12/07/2007",,
+"AGUSTINESELMER","JC 72",,,"2007",,,,,,,,,,,,,,,,,,,,"Suspended","20/09/2007",,"JC 72","20/09/2007",,
+"ALMOITEKHIANDRA730845LALAAN11SILANGCAVITE","JC 73","F","26/12/2001","6","Lalaan 11,Silang,Cavite","15","114",,,,"363",,"Cavite",,,"Parto eutocico. ha un fratello. genitore sani, vaccinazioni completa eccetto anti hepa",,,"granchietto","Tracheobronchite di probabile origine virale","ROENTOìGENOLOGOCAL REPORT: 21/09/2007
+There are hazy densities in the right lower lung. Heart is not enlarged. Diaphgram of the thoracic structures are unremarkable.
+IMPRESSION: pneumonitis, right lower lung
+Febbre da 1settimana., tosse secca
+Amoxiclab, carbocisteine, paracetamolo,  salbutamol.
+Hemoglobin: 11.2
+Hematocrit: 33
+RBC: 3.7
+WBC:5.7
+Platelet: 240 
+Neutrophil: 39
+Lymphocyte: 56
+Monocyte: 5
+",,"All'auscultazione presenza di rumori  umidi provenienti dai grossi bronchi  presumibilmente dovuti alla terapia mucolitica.Controllo ascoltatorio frà tre giorni.
+Eseguire rx del torace.","Active","20/09/2007",,"JC 73","20/09/2007",,
+"BALAOROJHICXZENN731519TRECEMARTIREZCAVITE","JC 74","F","31/10/2003","4","Trece Martirez, Cavite","17","117",,,,"364",,"Tagaytay City",,,,,,"granchietto","Sinusite con enterite secondaria ?","Paracetamol, salbutamol, sultamicilin.
+Homoglobin: 120
+RBC: 4.0
+Hematocrit: 36
+WBC: 9.4
+Segmentus: 30
+Lymphocytes:70
+Platelet: 304
+Alla auscultazione nulla di patologicamente rilevabile
+",,"Febbre da 1settimana, tosse secca  specie la notte, Diarrea.  ","Active","20/09/2007",,"JC 74","20/09/2007",,
+"AGUSTINESELMERJR729833SANANDRESQUEZON","JC 75","M","20/03/1999","8","San Andres, Quezon","24","135",,,,"367",,"Silang, Cavite",,,"Parto eutocico, 2° di  3 fratelli.  Il padre e la sorella maggiore  sono soggetti alla TBC. 
+Il bambino è in terapia con rifampicin, isoniazid (RIMCURE PAED) da agosto 2007.
+
+(XRAY del 2maggio,2006):
+There are hazy densitiies in the inner lung zones and lower lungs. Normal heart shadow.Diaphgrams and sinuses are unremarkable.
+IMPRESSION:
+Non specific central pneumonitis.",,,"granchietto",,"Parotite con febbre (38)da tre giorni.  somministrato Paracetamol.",,,"Suspended","26/09/2007",,"JC 75","26/09/2007",,
+"LOYOLAMARISSA728869SILANGCAVITE","JC 76","F","29/07/1996","11","Silang, Cavite","144","35",,"107/57","70","36",,"Silang, Cavite",,,"Parto eutocico. il padre era diabetico ed è morto il 2003. 
+la madre ha vuto ""endometriosis "" 2003. 
+",,,"sisinapoli","sospetta labirintopatia,possibile menarca","soffre di vertigine  con nausea
+Alvo regolare; assenza di adenomegalie retroauricolari e sottomandibolari non flogosi delle prime vie aeree negli ultimi tre mes","emocromo con formula leucocitaria, sideremia,glicemia .Verificare l'età puberale",,"Active","01/10/2007",,"JC 76","01/10/2007",,
+"BETITAARGIEPAUL730928TAGAYTAYCITY","JC 77","M","19/03/2002","5","Tagaytay City","20","12",,"89/43","109","366",,"Cavite",,,"Parto eutocico, 3° di 4 figli. soffre l'asma da quando ha 6 mesi. terapia con salbutamol. la madre soffe anche l'asma.  ",,,"granchietto",,"da 2 settimane, il bambino ha avuto ""BELL'S PALSY"" (PARESI DEL NERVO FACIALE), iniziato terapia di PREDNISONE PROLIX, ARTEARS, POLYNER V  ",,,"Active","03/10/2007",,"JC 77","03/10/2007",,
+"LOYOLAMARISSA728869SILANGCAVITE","JC 78","F","29/07/1996","11","Silang, Cavite","34","143",,,,"368",,"Silang, Cavite",,,"Parto eutocico. il padre era diabetico ed è morto il 2003. 
+la madre ha vuto ""endometriosis "" 2003. 
+",,,"granchietto",,"HEMATOLOGY: (23.10.07)
+HEMOGLOBIN: 13.6
+HEMATOCRIT: 40
+RBC: 4.4
+WBC: 7.5
+NEUTROPHIL: 36
+LYMPHOCYTE: 61
+MONOCYTE: 3
+
+CHEMISTRY:
+FBS: 4.45
+URINALYSIS:
+COLOR: YELLOW
+TRANSPARENCY: HAZY
+pH: 6.0
+SPECIFIC GRAVITY: 1.015
+ALBUMIN: NEGATIVE
+SUGAR: NEGATIVE
+PUS CELLS: 25-30/hpf
+RED BLOOD CELLS: 1-3/ htf
+EPITHELIAL: +3
+MUCUS THREADS: +1
+BACTERIA: +1
+Refraction: Sept. 23,2007
+Findings: O.D.: 175-400 x 167
+O.S.: 200-350 X 8
+Recommendation: must wear eyeglasses
+Soffre di vertigine, qualchevolta con nausea
+-otoscopio visita otorima",,"non vomita,  vertigini presenti ad occhi aperti,  ancora non ha la mestruazione.","Active","03/10/2007",,"JC 76","01/10/2007",,
+"CADAVONAMANILYN731513LALAAN2SILANGCAVITE","JC 79","F","25/10/2003","4","Lalaan 2, Silang, Cavite",,,,,,,,"Cavite",,,"Il fratellino è morto qualche mese fa con una febbre non diagnosticata (è lui JIMUEL)",,,"granchietto","Sospetta impetigine",,,"Manifestazioni cutanee diffuse","Active","03/10/2007",,"JC 18","08/06/2007",,
+"RIONALANGELO732703TRECEMARTIREZCITY","JC 81",,"27/01/2007","10","Trece Martirez City","5",,,,,"36,8",,"SILANG, CAVITE",,,"Parto eutocico. ",,,,,"ha sempre raffredore, febbre durante la notte",,,"Active","14/11/2007",,"JC 81","14/11/2007",,
+"BALAOROJHICXZENN731519TRECEMARTIREZCAVITE","JC 82","F","31/10/2003","4","Trece Martirez, Cavite","41","110",,,,,,"Tagaytay City",,,,,,"beta","IVU ","URINALYSIS:
+PHYSICAL:
+COLOR: YELLOW
+TRANSPARENCY: CLOUDY
+pH: 6.5
+SPECIFIC GRAVITY: 1.015
+
+CHEMICAL
+ALBUMIN: +1
+
+CELLS:
+PUSS CELLS: TNTC/hpf
+RED BLOOD CELLS: 2-5/hpf
+bacteria: +2",,"dolore al fianco bruciore quando urina da 1 settiman, febbre a 38 da stamattina ","Active","21/11/2007",,"JC 74","20/09/2007",,
+"PANGANIBANVERNALYN728364MINDORO","JC 83","F","12/03/1995","12","Mindoro","31","149",,,,"36,5",,"Silang, Cavite",,,"parto eutocico, 1a dei 4 fratelli, da bambina soffre l'asma,  la madre è anemica.",,,"sisinapoli","Sospetta porpora reumatoide","ROENTGENOLOGICAL FINDINGS:
+Both lungs are clear.
+Heart is not enlarged.
+Diaphragm and the rest of the thoracic structures are unremarkable
+HEMATOLOGY: (09/01/08)
+hemoglobin: 11.5
+hematocrit: 34
+RBC count: 3.8
+WBC count: 11.7
+platelet count: adequate
+neutrophli: 48
+lymphocyte. 42
+monocyte: 6
+eosinophil: 4","Eseguire :emocromo, RX torace","lesioni cutanea in tutte due le gambe da mese di agosto. ","Active","13/12/2007",,"JC 83","13/12/2007",,
+"DATOONJOHNRENZ731663LALAANII","JC 84","M","23/03/2004","4","Lalaan II","12",,"ok",,,"36",,"Silang, Cavite","nessun",,,"XRay",,"jimuelaidstaff","ok","CHEST X-RAY (19-12-2007):
+Streaky densities are seen on the inner lung zones. rest of the chest structures are normal.
+IMPRESSION:
+CENTRAL PNEUMONITIS
+All’ascoltazione non si rilevano rumori patologici,il MV è normotrasmesso su tuto l’ambito polmonare.
+Terapia effettuata:Salbutamolo,paracetamolo, Carbocisteina","XRay","Da 15 gg febbre  (38°)  tosse .Tumefazione laterocervicale  di consistenza  aumentata.Il fratellino ha avuto nello stesso periodo la parotite.
+In atto asintomatico ","Active","07/01/2008",,"JC 84","07/01/2008","C05.1 - Soft palate
+E06.2 - Chronic thyroiditis with transient thyrotoxicosis","jimuelaidstaff"
+"HABILITOKYLA732217INDANGCAVITE","JC 85","F","28/09/2005","3","Indang, Cavite","9",,,,,"38,5",,"Cavite City",,,,,,,,"Dall’ ultima visita è passata da 12 kg a 9 kg a causa di una parassitosi intestinale vedi JC21 (giugno 2007)",,"Febbre a 38,5° da 1 giorno.
+Rinite con secrezione molto fluida.All0ascoltazione non si rilevano rumori patologici ilMV risulta normotrasmesso su tutto l’ambito.
+Il respiro è lievemente tachipnoico .In atto la bambina sta assumendo Paracetamolo ","Active","07/01/2008",,"JC 2","15/05/2007",,
+"JINAYONDARLYN729830SILANGCAVITE","JC 86","F","17/03/1999","9","Silang, Cavite","36","125",,"89/48","109","36,8",,"Silang, Cavite",,,"Vaccinazioni: 
+Anti-polio
+Anti-Malaria",,,,,"HEMATOLOGY: 07 GEN'08
+Hemoglobin: 13.8
+hematocrit: 40
+WBC: 12.7
+Platelet count:346
+Neutrophil : 62
+Lymphocyte: 29
+Monocyte: 9
+URINALYSIS:
+COLOR- YELLOW
+TRANSPARENCY- HAZY
+pH: 5.0
+Specific Gravity: 1.005
+CELLS:
+PUS: 1-3/hpf
+Red Blood Cells: 0-2 /hpf
+Bacteria: +1
+
+Prima di natale ha avuto parotite ed i seguito
+Forte diarrea per una settimana.
+Ricoverata dal 7 al 9 Gennaio in ospedale
+Ampicillina 500mg x3
+Metronidazolo 125 mg x 3
+Cotrimoxazolo 7 ml x 2
+per 5 gg
+In ospedale diagnosticato: Amebiasi",,"Ha ancora conati di vomito.
+Non riesce a mangiare.
+La terapia è ancora in corso.
+Segni di disidratazione.","Active","10/01/2008",,"JC 42","18/07/2007",,
+"RAFAELFOHLINEKATE732836SILANGCAVITE","JC 87","F","09/06/2007","1","Silang, Cavite","7",,"Rinite",,,"364",,"Silang, Cavite","Lavaggi nasali con soluzione fisiologica.",,"Parto Eutocico,  1° figlia. 
+Vaccinazioni: BCG, Hepa 1-2, DPT1-2-3",,,"admin","Rinite","Rinite.
+Si consgliano frequenti lavaggi nasali con soluzione fisiologica.
+Da praticare con siringa senza ago direttamente nelle naric.i
+",,"Tosse  secca e raffredore da 1 settimana senza febbre.","Active","17/01/2008",,"JC 87","17/01/2008",,"admin"
+"JINAYONDARLYN729830SILANGCAVITE","JC 88","F","17/03/1999","9","Silang, Cavite","36","125",,"89/48","109","36,8",,"Silang, Cavite",,,"Vaccinazioni: 
+Anti-polio
+Anti-Malaria",,,,,"Si consiglia di proseguire terapia di JC86 per altri 3 gg fino a domenica 20 gennaio",,"Sintomi regrediti da JC 86
+Non più vomito
+Diuresi Regolare
+Alvo Regolare","Active","17/01/2008",,"JC 42","18/07/2007",,
+"DATOONJOHNRENZ731663LALAANII","JC 89","M","23/03/2004","4","Lalaan II","12","95",,,,"36",,"Silang, Cavite",,,,,,,,"Risulta asintomatico rispetto JC84.
+Febbre Regredita.
+Ridotta Tumefazione laterocervicale.",,"Follow UP JC84","Active","17/01/2008",,"JC 84","07/01/2008",,
+"VILLANUEVAEIRAHANDREA731088SILANGCAVITE","JC 90","F","26/08/2002","6","Silang, Cavite","14","101",,,,"36",,"Tagaytay City","Amoxicllina 3ml x 3 (ogni 8 h) i primi 2 giorni
+al terzo giorno 4,5 ml x 2 (ogni 12 ore)
+il tutto per 6 giorni",,"parto caesario","URINOCOLTURA lavando bene le parti intime e raccogliendo il campione",,"carlofrasca",,"URINALYSIS:
+Color: LT. YELLOW
+TRANSPARENCY: HAZY
+REACTION: ACIDIC
+pH. 6.0
+Specific Gravity:: 1.010
+MICROSCOPIC FINDINGS:
+Cast
+PUS Cell: 0-3/HPF
+RBC: 0-3/HPF
+MUCUS THREADS: FEW
+AMORPHOUS URATES: FEW","URINOCOLTURA lavando bene le parti intime e raccogliendo il campione","Disuria. Stimolo Frequente. Minzione dolorosa. No Febbre.
+Da più di un mese.
+Nessun trattameto farmacologico.
+Infezione Vie Urinarie","Active","24/01/2008",,"JC 90","24/01/2008",,"carlofrasca"
+"PANGANIBANBABYLYN731852SILANG","JC 91","F","28/09/2004","4","Silang","10","85",,,,"37,2",,"Silang, Cavite",,,"Parto eutocico, ultima di 4 fratelli,
+la madre è anemica,  la situazione sanitaria è molto precaria.",,,"sisinapoli","lesioni cutannee eritematose al cuoio capelluto con sovrainfezione batterica",,,"lesione in cuoio capelluto piu di due settimane, febbre serale","Active","24/01/2008",,"JC 91","24/01/2008",,
+"HABILITOKYLA732217INDANGCAVITE","JC 92","F","28/09/2005","3","Indang, Cavite","85",,,,"110","389","26","Cavite City",,,,,,,,,,,"Active","24/01/2008",,"JC 2","15/05/2007",,
+"CAPARASANDREAMAE728786","JC 93","F","07/05/1996","12",,,,,,,,,"SILANG, CAVITE",,,,,,,,,,,"Active","25/01/2008",,"JC 31","03/07/2007",,
+"CAPARASANDREAMAE728786SILANG","JC 94","F","07/05/1996","12","Silang","40","155",,"90/68",,"36","37","SILANG, CAVITE",,,"il padre  soffre di ipertensione mentre la madre è asmatica. la paziente all'età di  1 anno   ha avuto PNEUMATIS  e  stata somministrata RIFAMPICIN e ISONIACID. l'episodio si è ripetuto 
+ quando aveva 7 anni. 
+Soffre di sinusiti, ha fatto la terapia l0anno scorso (nei mesi di giugno-luglio) con SALINASE, AMOXICLAB. 
+1a menstruazione all'età di 10 anni",,,"sisinapoli","Tumefazione nodulare in sede sopracricoidea  nella regione tiroidea asintomatica","23 febbraio, 2008:
+T3 Test: 1.26
+T4: 12.08
+TSH: 2.05",,,"Active","25/01/2008",,"JC 94","25/01/2008",,
+"OTOSRENE732948TRECEMARTIRESCITY","JC 95","M","29/09/2007","1","Trece Martires City","55",,,,,"368",,"Silang, Cavite",,,"ultimo di 7 fratelli.   parto eutocico. 
+Vaccine: bcg, hepa 1",,,"sisinapoli",,,,"febbre da 38 ultimi tre giorni, tosse e raffredore.","Active","04/02/2008",,"JC 95","04/02/2008",,
+"PANGANIBANBABYLYN731852SILANG","JC 96","F","28/09/2004","4","Silang","10","85",,,,"37",,"Silang, Cavite",,,"Parto eutocico, ultima di 4 fratelli,
+la madre è anemica,  la situazione sanitaria è molto precaria.",,,"granchietto","Potrebbe anche essere una infezione delle prime vie aeree",,,"febbre a 38 da giovedì e tosse secca. ","Active","05/02/2008",,"JC 91","24/01/2008",,
+"PANGANIBANBILLY80133SILANGCAVITE","JC 97","M","25/05/2002","4","Silang, Cavite","14","101",,,,"37,2",,"Silang, Cavite",,,"parto eutocico, 3° di 4 fratelli, vaccini completa: bcg, anti hepa1-2, anti -tb, anti-tetano",,,"granchietto","Probabile infezione respiratoria. E' opportuno dare una copertura antibiotica e rivalutare il caso tra 3-4 giorni","mv normotrasmesso, non  rumore patologico.",,"febbre e tosse ogni sera da 1 settimana","Active","05/02/2008",,"JC 97","05/02/2008",,
+"DATOONJOHNRENZ731663LALAANII","JC 98","M","23/03/2004","4","Lalaan II",,,,,,,,"Silang, Cavite",,,,,,"granchietto","Frattura clavicola dx",,,"frattura della clavilcula dx.","Active","07/02/2008",,"JC 84","07/01/2008",,
+"HAWASRHENDRIKA723903INDONESIA","JC 99","F","24/12/1982","26","Indonesia","47","143",,,,,,,,,,,,,,"ROENTGENOLOGICAL FINDINGS:
+The bronchovascular markings are prominent with  hazy densities in the  right lower lung.
+Heart appears enlarged. However diaphgram is elevated.
+IMPRESSION:
+-Pneumonitis, right lower lung
+-Rule out CARDIMEGALY",,,"Active","11/02/2008",,"JC 99","11/02/2008",,
+"AGBAYANIELLAINEJOY730741SILANGCAVITE","JC 100","F","13/09/2001","7","Silang, Cavite","215",,,,"90","36","24",,,,"parto eutocico, ha una sorella. ",,,"silang",,,,,"Active","22/02/2008",,"JC 100","22/02/2008",,"silang"
+"FLORAERLANDO730011MINDANAO","JC 101","M","14/09/1999","9","Mindanao","20","108",,,,"37",,"Paranaque City",,,"Patient was born FT via SVD to a then 29y/o G3P2 mother.
+(-) Fetomaternal complications
+(-) maternal illnesses 
+(-) drug intake.
+5 y/o PTC (when patient 1 y/o) 
+(+) note of swelling right temporal area, size of a jollen (biglie) not involving the right eye yet. 
+mass slowly enlarged
+
+Feb. 05, 2009
+Examination: Chest PA and lateral 
+Roentgenological Findings: Right Hilar prominence noted w/ nodular densities. (TB infection?). The cardiac shadow is not enlarged. Other chest structures are unremarkable. Clinical correlation is suggested. 
+
+",,,,,"15 january 2007:
+Final Diagnosis:  PLEXIFORM NEUROFIBROMA
+Gross: Specimen A consists of fleshy, tan, lobulated tissue fragments measuring 30mmx26mm.
+Specimen B consists of similar tissue fragments measuring 22mm x 20 mm.
+MICROSCOPIC:
+There are whorls of spindle shaped cells with basophilic nuclei organized in bundles and occasional cords. There are no mitotic figures seen.
+",,,"Active","29/02/2008",,"JC 101","29/02/2008",,
+"DANOJOHNALFRED730733SILANGCAVITE","JC 102","M","05/09/2001","7","Silang, Cavite","22","117",,,,"36,3",,"Silang, Cavite",,,,,,,,,,,"Active","29/02/2008",,"JC 102","29/02/2008",,
+"FLORAERLANDO730011MINDANAO","JC 106","M","14/09/1999","9","Mindanao","20","88",,,,"37,5",,"Paranaque City",,,"Patient was born FT via SVD to a then 29y/o G3P2 mother.
+(-) Fetomaternal complications
+(-) maternal illnesses 
+(-) drug intake.
+5 y/o PTC (when patient 1 y/o) 
+(+) note of swelling right temporal area, size of a jollen (biglie) not involving the right eye yet. 
+mass slowly enlarged
+
+Feb. 05, 2009
+Examination: Chest PA and lateral 
+Roentgenological Findings: Right Hilar prominence noted w/ nodular densities. (TB infection?). The cardiac shadow is not enlarged. Other chest structures are unremarkable. Clinical correlation is suggested. 
+
+",,,"varpie",,"tosse secca e febbre serale.  
+6/03/08 CHEST AND LATERAL X-RAY: 
+Right hilar ""fullness"" noted with nodular densities. (TB infection) Clinical correlation is suggested.The cardiac shadow is not enlarged. Other chest structures are unremarkable.",,,"Active","11/03/2008",,"JC 101","29/02/2008",,
+"CAFEKHESIE728699SILANGCAVITE","JC 107","F","10/02/1996","12","Silang, Cavite",,,,,,,,"Silang",,,"Parto eutocico, 5a di 8 fratelli. 
+",,,,,,,,"Active","22/08/2008",,"JC 62","11/09/2007",,
+"OLEGARIOMARIAELMA729384ANTIQUE","JC 108","F","26/12/1997","11","Antique",,,,,,,,"Silang, Cavite",,,"Parto eutocico, primogenita, ha 1 fratello e 2 sorelle. manca il vaccino anti hepatite.
+",,,,,,,,"Active","22/08/2008",,"JC 69","18/09/2007",,
+"PILODANILO730419LALAANIISILANGCAVITE","JC 109","M","26/10/2000","8","Lalaan II, Silang, Cavite",,,,,,,,"Cavite City",,,,,,,,,,,"Active","22/08/2008",,"JC 3","15/05/2007",,
+"MIASAPRILBOYPARANAQUECITY","JC 110","M",,"2008","Paranaque City","26",,,,,,,"Paranaque City",,,,,,,,"tine test august  2008",,,"Active","08/09/2008",,"JC 110","08/09/2008",,
+"FLORAERLANDO730011MINDANAO","JC 111","M","14/09/1999","9","Mindanao","42",,,,,,,"Paranaque City",,,"Patient was born FT via SVD to a then 29y/o G3P2 mother.
+(-) Fetomaternal complications
+(-) maternal illnesses 
+(-) drug intake.
+5 y/o PTC (when patient 1 y/o) 
+(+) note of swelling right temporal area, size of a jollen (biglie) not involving the right eye yet. 
+mass slowly enlarged
+
+Feb. 05, 2009
+Examination: Chest PA and lateral 
+Roentgenological Findings: Right Hilar prominence noted w/ nodular densities. (TB infection?). The cardiac shadow is not enlarged. Other chest structures are unremarkable. Clinical correlation is suggested. 
+
+",,,,,"13/09/2008: 
+MRI of the HEAD (contrast-enhanced)
+FINDINGS:
+Large confluent mass seen as hyperintense on T2W1and hypointense to isointense on T1W1 and T2 FLAIR are noted at he soft tissues overlying the right fronto-temporal area including the diploe at this region with suspicious signal voids. the right eyelid is markedly thickened with the same signal characteristics as the frontotemporal soft tissues.",,,"Active","16/09/2008",,"JC 101","29/02/2008",,
+"MORATINQUEENYLYN728484095CUBICSIDEMERVILLE","JC 112","F","10/07/1995","13","095 Cubic side Merville",,,,,,,,"Paranaque City",,,"(+)tine test
+
+Nov. 6, 2008
+Examination: Chest PA
+Roentgenological Findings:
+Right hilar ""fullness"" noted. (TB infection?). Clinical correlation is suggested. The cardiac shadow is not enlarged. Other chest structures are unremarkable. ",,,,,"chest pa del 6/11/08:
+Right hilar ""fullness"" noted
+(TB Infection?)
+Clinical correlation is suggested.
+The cardiac shadow is not enlarged.
+other structures are unremarkable.",,,"Active","08/11/2008",,"JC 112","08/11/2008",,
+"CLARAJONATHAN731565VILLAPARAISOPARAAQUE","JC 113","M","16/12/2003","5","Villa Paraiso, Parañaque ","11","115",,,,"36",,"Parañaque City",,,"parto eutocico, l'utimo nato da ""triplets""
+genitori sani. ",,,,,,,,"Active","08/11/2008",,"JC 113","08/11/2008",,
+"CLARAJUSTIN731565VILLAPARAISOPARAAQUE","JC 114","M","16/12/2003","5","Villa Paraiso, Parañaque","10",,,,,,,"Parañaque","Per infezione: 2,5 ml ogni 8h Amoxicilline
+2 cps al mattino Betametasone Compresse 0,5 mg
+
+Per Tracheo Bronchite: Aerosol 1/2 flacone clenil A + 6 gocce salbutamol + 2 ml Soluzione Fisiologica",,,,,"admin",,"Febbre a 37.5 
+Ferita Infetta alla Gamba
+Tumefazione
+Tosse
+e Raffreddore",,,"Active","08/11/2008",,"JC 114","08/11/2008",,"admin"
+"MORATINKYLEGLEN730342CUBICSIDE","JC 115","M","10/08/2000","8","Cubic side","30","112",,,,"367",,"Parañaque City",,,"(+) tine test
+
+Nov. 6, 2008
+Examination: Chest PA
+Roentgenological Findings:
+Hilar prominence noted w/ nodular densities. (Consider primary TB). The cardiac shadow is not enlarged. Other chest structures are unremarkable. ",,,,,,,,"Active","19/11/2008",,"JC 115","19/11/2008",,
+"MIASAPRILBOY730238FABELLAHOSPITALMANILA","JC 116","M","28/04/2000","8","Fabella Hospital, Manila","18",,,,,,,"Paranaque City",,,"(+) tine test
+
+Nov.6, 2008
+Examination: Chest PA and Lateral 
+Roentgenological Findings: Hilar prominence noted w/ nodular components. (Consider primary TB). The cardiac shadow is not enlarged. Other chest structures are unremarkable. ",,,,,"ROENTGENOLOGICAL FINDINGS (6/11/08):
+Hilar prominence noted w/ nodular components.
+Consider Primary TB.
+The cardiac shadow is not enlarged.
+other chest structures are unremarkable.",,,"Active","20/11/2008",,"JC 116","20/11/2008",,
+"BONONRICHARD730744QUEZONPROVINCE","JC 117","M","16/09/2001","8","QUEZON PROVINCE","16","115",,,,"36",,"Silang, Cavite",,,,,,,,,,,"Active","14/01/2009",,"JC 117","14/01/2009",,
+"CADAVONAMANILYN731513LALAAN2SILANGCAVITE","JC 118","F","25/10/2003","6","Lalaan 2, Silang, Cavite",,,,,,,,"Cavite",,,"Il fratellino è morto qualche mese fa con una febbre non diagnosticata (è lui JIMUEL)",,,,,,,,"Active","14/01/2009",,"JC 18","08/06/2007",,
+"TORRESKARENMAE729640CUBICSIDEMERVILLE","JC 119","F","08/09/1998","11","Cubic side Merville ",,,,,,,,"Paranaque City",,,,,,,,"(+)tine test
+Examination: Chest PA
+Roentgenological Findings:
+Hilar ""fullness"" noted. (TB infection?) The cardiac shadow is not enlarged.Other chest structures are unremarkable. ",,,"Active","16/05/2009",,"JC 119","16/05/2009",,
+"FLORAERLANDO730011MINDANAO","JC 120","M","14/09/1999","10","Mindanao","21",,,,,,,"Paranaque City",,,"Patient was born FT via SVD to a then 29y/o G3P2 mother.
+(-) Fetomaternal complications
+(-) maternal illnesses 
+(-) drug intake.
+5 y/o PTC (when patient 1 y/o) 
+(+) note of swelling right temporal area, size of a jollen (biglie) not involving the right eye yet. 
+mass slowly enlarged
+
+Feb. 05, 2009
+Examination: Chest PA and lateral 
+Roentgenological Findings: Right Hilar prominence noted w/ nodular densities. (TB infection?). The cardiac shadow is not enlarged. Other chest structures are unremarkable. Clinical correlation is suggested. 
+
+",,,,,,,,"Active","16/05/2009",,"JC 101","29/02/2008",,
+"MENDOZAJOHN730028PARANAQUE","JC 121","M","01/10/1999","10","Paranaque","21",,,,,,,"Paranaque City",,,"Radiographic Report:
+There are perihilar, peribronchial infiltrates and paratracheal adenophaties. Heart is not enlarged. The diaphragm and bony thorax are intact. 
+
+Impression: Primary Koch's Infections. Correlate clinically.",,,,,,,,"Active","18/05/2009",,"JC 121","18/05/2009",,
+"MENDOZAJOVAN732311SITIOMALAYA","JC 122","M","31/12/2005","4","Sitio Malaya","9",,,,,,,"Paranaque",,,"Feb. 05, 2009
+Examination: Chest PA/L
+Roentgenological Findings: Right hilar noted w/ nodular densities. (Consider Primary TB). The cardiac shadow is not enlarged. Other chest structures are unremarkable. ",,,,,,,,"Active","18/05/2009",,"JC 122","18/05/2009",,
+"ANDUYORENE729259PARANAQUECITY","JC 123","M","23/08/1997","12","Paranaque City",,,,,,,,"Paranaque",,,"Roentgenological Findings:
+Hilar prominence noted.
+(TB infection?)
+Clinical correlation is suggested.
+The cardiac shadow is not enlarged.
+Other chest structures are unremarkable.",,,,,,,,"Active","27/05/2009",,"JC 123","27/05/2009",,
+"HAMORCHARLOTTE729574SILANGCAVITE","JC 124","F","04/07/1998","11",,"27","130",,,,"37",,,,,"parto eutocico, 3a di 6 fratelli",,,,,,,,"Active","14/09/2009",,"JC 49","25/07/2007",,
+"MANRIQUEGIANEFLOYD731241TAGAYTAYCITY","JC 125","M","26/01/2003","6","Tagaytay City","231","1165",,,,,,"Tagaytay City",,,"Previous Illness: Pneumonia (Feb. '09)
+Family History:  Hypertension, Diabetes
+Immunizations: BCG, OPV, DTwP, Hepatitis B, Measles,",,,,,"Anti-flu vaccines (July 18, 2009)",,,"Active","22/07/2009",,"JC 125","22/07/2009",,
+"HABILITOKYLA732217INDANGCAVITE","JC 126","F","28/09/2005","4","Indang, Cavite","109",,,,,,,"Cavite City",,,,,,,,"cough, fever
+acute bronchial asthma",,,"Active","22/07/2009",,"JC 2","15/05/2007",,
+"BENAIDENZORAFAEL733697SILANGCAVITE","JC 127","M","17/10/2009","0","Silang,, Cavite","9",,,,"25",,,,,"Teacher","Family history: Hypertension
+Immunization:BCG, DTwP, OPV, Hepatitis B",,,,,"May 5, 2008 >Asymptomatic
+July 18, 2009>Asymtomatic
+Anti-Flu Vaccine (July18, 2009)",,,"Active","22/07/2009",,"JC 127","22/07/2009",,
+"BINALLAJESSIE730687LALAANIISILANGCAVITE","JC 128","M","21/07/2001","8","Lalaan II, Silang, Cavite","234",,,,,,,"Cavite",,,,,,,,"cough, fever, acute bronchial ashma",,,"Active","22/07/2009",,"JC 40","12/07/2007",,
+"CAPARASPATRICIADENNISE730847SILANGCAVITE","JC 129","F","28/12/2001","8","Silang, Cavite","207",,,,,,,,,,,,,,,"Urinalysis: PUS Cells: 8-10, RBC; 0-2 
+Amorphos urates: few
+Bacteria: few
+Anti-flu vaccine (July 18, 2009)",,,"Active","22/07/2009",,"JC 129","22/07/2009",,
+"DATOONJOHNRENZ731663LALAANII","JC 130","M","23/03/2004","5","Lalaan II","157",,,,,,,"Silang, Cavite",,,,,,,,"colds, cough
+Acute Ashma",,,"Active","22/07/2009",,"JC 84","07/01/2008",,
+"CADAVONAMANILYN731513LALAAN2SILANGCAVITE","JC 131","F","25/10/2003","6","Lalaan 2, Silang, Cavite",,,,,,,,"Cavite",,,"Il fratellino è morto qualche mese fa con una febbre non diagnosticata (è lui JIMUEL)",,,,,"July 18, 2008: Asymtomatic
+Anti-Flu vaccine",,,"Active","22/07/2009",,"JC 18","08/06/2007",,
+"CADAVONAGABRIEL729789SILANGCAVITE","JC 132","M","04/02/1999","10","Silang, CAvite","286","1295",,,,,,,,,,,,,,"Asymtomatic
+Anti-flu vaccine (July 18, 2009)",,,"Active","22/07/2009",,"JC 132","22/07/2009",,
+"CADAVONAROCHELLE730291SILANGCAVITE","JC 133","F","20/06/2000","9","Silang, Cavite","24",,,,,,,,,,,,,,,"Asymtomatic
+Anti Flu vaccine (July 18, 2009)",,,"Active","22/07/2009",,"JC 133","22/07/2009",,
+"NADUMANICOLE732245","JC 134","F","26/10/2005","4",,"155",,,,,"995",,,,,,,,,,"cough, colds, acute nasopharyngitis",,,"Active","22/07/2009",,"JC 134","22/07/2009",,
+"SANGCOMARYJASMINEROSESILANGCAVITE","JC 135","F",,"2009","Silang, Cavite","207","1055",,,,,,,,,,,,,,"cough, colds",,,"Active","22/07/2009",,"JC 135","22/07/2009",,
+"PILOANTHONY733413TRECEMARTIRES","JC 136","M","06/01/2009","0","Trece Martires","69",,,,,,,,,,,,,,,"Immunizations: BCG, DTwp, OPV, Hepatitis B
+
+July 18, 2009: Cough, colds,watery nasal  discharge
+",,,"Active","22/07/2009",,"JC 136","22/07/2009",,
+"PILOALBERT728922SILANGCAVITE","JC 137","M","20/09/1996","13","Silang, Cavite","301","1385",,,,,,,,,,,,,,"Asymtomatic 
+Anti-flu vaccine (July 18, 2009)",,,"Active","22/07/2009",,"JC 137","22/07/2009",,
+"PILOALDRIN729612SILANGCAVITE","JC 138","M","11/08/1998","11","silang, Cavite","245","127",,,,,,"Cavite City",,"Housewife","Parto eutocico, 4° di 6 fratelli.  
+la madre ha il thyrroid.",,,,,"Anti-flu vaccine (July 18, 2009)",,,"Active","22/07/2009",,"JC 66","13/09/2007",,
+"PILODANILOJR730419SILANGCAVITE","JC 139","M","26/10/2000","9","silang, Cavite","223","1185",,,,,,"Cavite City",,"Housewife",,,,,,"cough
+July 18, 2009 (anti-flu vaccine)",,,"Active","22/07/2009",,"JC 139","22/07/2009",,
+"PILOANDREW731601TRECEMARTIRES","JC 140","M","21/01/2004","5","Trece Martires","146","1015",,,,,,,,,,,,,,"Asymtomatic
+Anti-Flue VAccine (July 18,2009)
+",,,"Active","22/07/2009",,"JC 140","22/07/2009",,
+"ALBINOKIMBERLY732601SILANGCAVITE","JC 141","F","17/10/2006","3","SILANG, CAVITE","11","112",,,,"375",,"Silang, Cavite",,,"parto eutocico.
+genitori sani.
+tosse e febbre da 3 giorni.
+ha lo stomacco gonfio.",,,,,,,,"Active","23/07/2009",,"JC 141","23/07/2009",,
+"DANOALEXANDRA729059SILANGCAVITE","JC 142","F","04/02/1997","12","SILANG, CAVITE",,,,,,,,"Silang, Cavite",,,,,,,,"somministrazione Equiflorine per 10 giorni",,,"Active","23/07/2009",,"JC 142","23/07/2009",,
+"JACARALPH728702319RIVERSIDESUNVALLEY","JC 143","M","13/02/1996","13","319 Riverside,Sun Valley",,,,,,,,"Paranaque City",,,,,,,,"Nov.11, 2008
+Examination:Chest PA
+Roentgenological Findings: Hilar ""fullness"" noter. (TB infection?)Clinical correlation is suggested. The cardiac shadow is not enlarged. Other chest structures are unremarkable",,,"Active","28/07/2009",,"JC 143","28/07/2009",,
+"MEDIADAPHNENICOLE732356PARANAQUECITYPARANAQUECITYPARANAQUECITY","JC 144","F","14/02/2006","3","PARANAQUE CITY
+PARANAQUE CITY
+PARANAQUE CITY",,,,,,"36",,"PARANAQUE CITY",,"CASALINGA","PARTO EUTOCICO.
+3o di 4 figli.
+il padre ha vuto la TBC.
+Vccinazione completo",,,,,"la bambina ha avuto lesione con pus attorno ala bocca.
+
+",,,"Active","18/08/2009",,"JC 144","18/08/2009",,
+"MEDIADAPHNENICOLE732356PARANAQUECITYPARANAQUECITYPARANAQUECITY","JC 145","F","14/02/2006","3","PARANAQUE CITY
+PARANAQUE CITY
+PARANAQUE CITY","125","35",,,,,,"PARANAQUE CITY",,"CASALINGA","PARTO EUTOCICO.
+3o di 4 figli.
+il padre ha vuto la TBC.
+Vccinazione completo",,,"silang",,,,,"Active","23/08/2009",,"JC 144","18/08/2009","G10 - Huntington's disease",
+"JACARALPH728702319RIVERSIDESUNVALLEY","JC 146","M","13/02/1996","13","319 Riverside,Sun Valley",,,,,,,,"Paranaque City",,,,,,,,,,,"Active","23/08/2009",,"JC 143","28/07/2009","K71.7 - Toxic liver disease with fibrosis and cirrhosis of liver",
+"AGBAYANIELLAINEJOY730741SILANGCAVITE","JC 147","F","13/09/2001","8","Silang, Cavite",,,,,,,,,,,"parto eutocico, ha una sorella. ",,,,,,,,"Active","23/08/2009",,"JC 100","22/02/2008",,
+"AGBAYANIELLAINEJOY730741SILANGCAVITE","JC 148","F","13/09/2001","8","Silang, Cavite",,,,,,,,,,,"parto eutocico, ha una sorella. ",,,,,,,,"Active","25/08/2009",,"JC 100","22/02/2008",,
+"CASTRORONALDO","JC 150","M",,"2010",,"238",,,,,,,,,,,,,,,"palpable cervical lymphnodes
+CXR primary complex
+TB exposure
+",,,"Active","16/07/2010",,"JC 150","16/07/2010",,
+"GASPARJIRAHMALAYAPARANAQUE","JC 151",,,"2010","Malaya, Paranaque","45",,,,,,,"Paranaque City",,,"Examination: Chest PA
+Roentgenological Findings:
+
+Hilar ""Fullness"" noted. (TB infection?) Clinical correlation is suggested. The cardiac shadow is not enlarged. Other chest structures are unremarkable. ",,,,,,,,"Active","29/08/2010",,"JC 151","29/08/2010",,
+"MENDOZAJEFFERSON731616SITIOMALAYAPARANAQUE","JC 152","M","05/02/2004","6","Sitio Malaya, Paranaque",,,,,,,,"Paranaque",,,"March 22, 2009
+Examination: Chest PA/L
+Radiographic Report: There are perihilar, peribronchial infiltrates and paratracheal adenophaties. Heart is not enlarged. The diaphragm and bony thorax are intact.
+Impression: PRIMARY KOCH's INFECTIONS
+            CORRELATE CLINICALLY",,,,,"Try to translate correcrtly",,"Try to understand what i say","Active","29/08/2010",,"JC 152","29/08/2010",,
+"MENDOZAJEFFERSON731616SITIOMALAYAPARANAQUE","JC 154","M","05/02/2004","10","Sitio Malaya, Paranaque",,,,,,,,"Paranaque",,,"March 22, 2009
+Examination: Chest PA/L
+Radiographic Report: There are perihilar, peribronchial infiltrates and paratracheal adenophaties. Heart is not enlarged. The diaphragm and bony thorax are intact.
+Impression: PRIMARY KOCH's INFECTIONS
+            CORRELATE CLINICALLY",,,"jimuelaidstaff",,,,,"Active","06/06/2014",,"JC 152","29/08/2010",,"jimuelaidstaff"
+"PILODANILOJR730419SILANGCAVITE","JC 155","M","26/10/2000","14","silang, Cavite",,,,,,,,"Cavite City",,"Housewife",,,,"jimuelaidstaff",,,,,,"11/06/2014",,"JC 139","22/07/2009",,
+"PACELLIMARIA719706SVIZZERA","JC 156","F","28/06/1971","43","Svizzera",,,,,,,,"Cascina",,,"aaaaaa
+",,,,,,,,"Active","14/06/2014","SILANG","JC 156","14/06/2014",,
+"VILLANUEVAEIRAHANDREA731088SILANGCAVITE","JC 157","F","26/08/2002","12","Silang, Cavite",,,,,,,,"Tagaytay City",,,"parto caesario",,,,,,,,"Active","15/06/2014",,"JC 90","24/01/2008",,
+"DANOALEXANDRA729059SILANGCAVITE","JC 158","F","04/02/1997","17","SILANG, CAVITE",,,,,,,,"Silang, Cavite",,,,,,,,,,,"Active","15/06/2014",,"JC 142","23/07/2009",,
+"BENAIDENZORAFAEL733697SILANGCAVITE","JC 159","M","17/10/2009","5","Silang,, Cavite",,,,,,,,,,"Teacher","Family history: Hypertension
+Immunization:BCG, DTwP, OPV, Hepatitis B",,,,,,,,"Active","23/07/2014",,"JC 127","22/07/2009",,
+"CASTRORONALDO","JC 160",,,"2014",,,,,,,,,,,,,,,,,,,,"Active","23/07/2014","mulot","JC 150","16/07/2010","H72.2 - Other marginal perforations of tympanic membrane",
