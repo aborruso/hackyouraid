@@ -27,12 +27,6 @@
             "schema": {
                 "fields": [
                     {
-                        "index": 0,
-                        "type": "string",
-                        "name": "PersonalKey",
-                        "description": "PersonalKey: identificativo univoco"
-                    },
-                    {
                         "index": 1,
                         "type": "string",
                         "name": "CartellaN",
